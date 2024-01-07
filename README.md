@@ -126,3 +126,4 @@ JLC2KiCadLib relies on the [KicadModTree](https://gitlab.com/kicad/libraries/kic
 Copyright © 2021 TousstNicolas 
 
 The code is released under the MIT license
+RabbitTigers
